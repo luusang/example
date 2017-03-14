@@ -3,3 +3,11 @@ i use GitHub
 vua nay mit git push len thanh cong roi
 vay ma kiem tra tren mang thi lai ko thay
 nen gio lam lai lan nua de kiem tra
+
+ok
+vay la hinh nhu neu lap ra mot cai moi
+tuc la khi dung git init
+thi sau do phai dung tiep 2 lenh nua de cai dat thong tin nguoi dung
+git config --global user.name "name"
+git config --global user.email emailadress@gmail.com
+sau do thi moi co the git push len duoc
