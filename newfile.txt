@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 i have an account on github
 
 i come from Vietnam
+=======
+ i have an account on github
+add something
+>>>>>>> 8f34cc1836acb87c6d0b610becbefb88d98e83a6
