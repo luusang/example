@@ -1,2 +1,5 @@
 i want to learn git
 i use GitHub
+vua nay mit git push len thanh cong roi
+vay ma kiem tra tren mang thi lai ko thay
+nen gio lam lai lan nua de kiem tra
