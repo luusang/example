@@ -15,4 +15,7 @@ sau do thi moi co the git push len duoc
 bay gio hoc toi lenh
 git commit --amend
 vua nay bi loi roi, thu lai nao 
+lai lan nua
+bay gio toi git reset HEAD filename
+
 
