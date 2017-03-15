@@ -18,3 +18,5 @@ sau do git status de xem kq
 da doi sang branch 1
 tag4 la commit dau tien nen file gan nhu trong
 
+dang hoc chua loi merging
+
